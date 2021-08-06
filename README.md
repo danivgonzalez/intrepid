@@ -1,7 +1,7 @@
 # Intrepid College Coaching Website
 
 
-### <a href="http://intrepidcollegecoaching.com">intrepidcollegecoaching.com</a> 
+### <a href="intrepidcollegecoaching.com">intrepidcollegecoaching.com</a> 
 
 ## Description
 Landing page for Intrepid College Coaching.
