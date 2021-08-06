@@ -1,7 +1,7 @@
 # Intrepid College Coaching Website
 
 
-### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
+### <a href="http://intrepidcollegecoaching.com">intrepidcollegecoaching.com</a> 
 
 ## Description
 Landing page for Intrepid College Coaching.
